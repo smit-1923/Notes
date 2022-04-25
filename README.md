@@ -1,6 +1,6 @@
-# Keeper App!
+# Notes App!
 ![image](https://user-images.githubusercontent.com/68073132/165017979-73ca05b3-6698-4c14-b3b6-0683113c4438.png)
-> Keeper is a Note Taking Application.
+> Notes is a Note Taking Application.
 > Application offers a variety of tools for taking notes including texts, lists.
 > We have added a Login Functionality for security purposes.
 > A user cannot access the application without Login.
